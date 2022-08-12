@@ -1,4 +1,4 @@
 # Great note taking project
 
-Coded by Bbboraa
+Coded by Bora
 
