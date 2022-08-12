@@ -41,7 +41,7 @@ const AddNote = ({ navigation, ...props }) => {
               }}
             >
               <Text style={styles.buttonText}>Add</Text>
-              <Text>aaaa</Text>
+              
             </TouchableOpacity>
           </View>
         </TouchableWithoutFeedback>
