@@ -18,7 +18,7 @@ const AddNote = ({ navigation, ...props }) => {
     <ScrollView>
       <KeyboardAvoidingView
         behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
-        behavior='padding'
+        
       >
         <TouchableWithoutFeedback onPress={Keyboard.dismiss}>
           <View style={{ padding: 20, justifyContent: 'space-around' }}>
@@ -41,6 +41,7 @@ const AddNote = ({ navigation, ...props }) => {
               }}
             >
               <Text style={styles.buttonText}>Add</Text>
+              <Text>aaaa</Text>
             </TouchableOpacity>
           </View>
         </TouchableWithoutFeedback>
