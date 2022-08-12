@@ -1,2 +1,2 @@
-Great note taking project
+# Great note taking project
 
